@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/responsive-tic-tac-toe-game-339051-339065/tic_tac_toe_frontend"
+}
